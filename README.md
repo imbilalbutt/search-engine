@@ -11,7 +11,8 @@ each document.
 # Assignment 2:
 
 The second part consists of assigning scores to documents on basis of relevance. In this assignment
-two methods are implemented
+two methods are implemented.
+
 1- Okapi BM25
 2- Dirichlet Smoothing
 
