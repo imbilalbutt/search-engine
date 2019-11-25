@@ -1,5 +1,5 @@
 # search-engine
-This stuff related to Information Retrieval course which was being offered to FAST-NUCES Lahore.
+This stuff related to Information Retrieval course which was being offered in FAST-NUCES University Lahore.
 
 # Assignment 1:
 
@@ -17,7 +17,7 @@ two methods are implemented
 
 # Assignment 3:
 
-The purpose of question 1 is to train word2Vec using genism on dataset. For this we will have to read input file and 
+The purpose of question 1 is to train word2Vec using gensim on dataset. For this we will have to read input file and 
 then preprocess (tokenization, etc) data using nltk (as done in HW1) or genism and then train wordtoVec on dataset.
 
 The purpose of question 2 is to build a sentiment classifier using the Naive Bayes classification techniques and a bag of
