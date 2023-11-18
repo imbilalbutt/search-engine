@@ -1,5 +1,5 @@
 # search-engine
-This stuff related to Information Retrieval course which was being offered in FAST-NUCES University Lahore.
+This repository is detected for course named 'Information Retrieval' offered in FAST-NUCES University Lahore.
 
 # Assignment 1:
 
